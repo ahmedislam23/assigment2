@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">assigment2</string>
+    
+    <string name="onePoint">Free Point</string>
+    <string name="twoPoint">2 Point</string>
+    <string name="threePoint">3 Point</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+
+    <string name="resetpoint">Reset</string>
+    <string name="zero">0</string>
+</resources>
